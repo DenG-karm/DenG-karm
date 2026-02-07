@@ -1,35 +1,45 @@
 # DenG
 
-**MIS Student | Aspiring FinTech Developer | Data Analysis Enthusiast**
+**Management Information Systems  | C Programmer | Financial Systems Architect**
 
-Current Management Information Systems student bridging the gap between financial markets and software engineering. I am passionate about building algorithmic tools to understand market data better.
-
----
-
-### 🛠 Skills & Focus
-
-* **Languages:** C (Learning low-level memory mgmt), Python.
-* **Interests:** Financial Data Analysis, Algorithmic Trading Concepts (ICT/SMC), Backend Development.
-* **Goal:** To become a proficient Financial Engineer specializing in automated risk systems.
+I specialize in low-level systems programming and financial data architecture. My primary focus is on memory management and algorithmic efficiency using C, while leveraging Python and Web Technologies to build analytical tools for financial markets.
 
 ---
 
-### 🚧 Current Project: WhaleTracker (In Development)
+### Technical Proficiency
 
-*Currently building a private tool for personal market analysis.*
+**Primary Specialization (Systems Programming):**
+* **C:** Advanced manual memory management, custom data structure implementation (Hash Tables, Linked Lists), and algorithm optimization.
 
-**Concept:** A data analysis tool for XAUUSD & NASDAQ to assist in risk management.
-**Tech Stack:** Python, C, Real-time APIs.
-**Status:** 🏗️ Under Construction (Private Repo)
+**Secondary Specialization (Financial Analysis & Backend):**
+* **Python:** Financial data processing (Pandas), backend logic development, and API integration for real-time market data.
+
+**Supplementary Skills (Visualization):**
+* **JavaScript & CSS:** Developing interactive web-based dashboards to visualize complex backend logic and risk metrics.
+
+---
+
+### Current Development: WhaleTracker
+
+**Project Type:** Web-Based Financial Risk Management Platform
+**Status:** In Development
+
+WhaleTracker is a full-stack web application designed to analyze real-time market data for **XAUUSD** and **NASDAQ**, enforcing strict risk management protocols.
+
+**Technical Architecture:**
+* **Backend (Python):** Processes live market data and executes algorithmic logic based on market structure concepts.
+* **Frontend (JavaScript/CSS):** Provides a responsive user interface for monitoring trade setups and risk exposure.
+* **Objective:** To eliminate emotional decision-making in trading through algorithmic validation.
 
 ---
 
-### 📈 What I'm Learning
+### Professional Focus
 
-* Mastering Data Structures in C (Linked Lists, Hash Tables).
-* Deepening knowledge in Statistical Analysis for Finance.
-* Improving discipline in both bodybuilding and coding.
+* **Low-Level Engineering:** Deep understanding of computer architecture and efficient coding practices in C.
+* **Algorithmic Trading:** Applying statistical models to financial markets.
+* **System Design:** Building robust, scalable software solutions.
 
 ---
+
 
 [LinkedIn Profile](https://www.linkedin.com/in/deniz-g%C3%BCnarslan-b29a33176/) • [Email](mailto:denizgunarslan77@gmail.com)
