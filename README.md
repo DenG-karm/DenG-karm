@@ -32,4 +32,4 @@ Current Management Information Systems student bridging the gap between financia
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/Deniz-Günarslan/) • [Email](mailto:denizgunarslan77@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/deniz-günarslan-b29a33176/) • [Email](mailto:denizgunarslan77@gmail.com)
