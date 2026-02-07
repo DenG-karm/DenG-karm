@@ -1,41 +1,35 @@
 # DenG
 
-**Management Information Systems (MIS) Major | AI-FinTech Developer | C Programmer**
+**MIS Student | Aspiring FinTech Developer | Data Analysis Enthusiast**
 
-Specializing in the architecture of **AI-Driven Financial Systems**. I bridge the gap between complex market dynamics and high-performance software engineering, focusing on building algorithmic tools that enforce disciplined, data-driven decision-making.
-
----
-
-### Core Competencies
-
-* **Financial Systems Architecture:** Designing end-to-end software solutions for market tracking and automated trade management.
-* **Artificial Intelligence in Finance:** Implementing Machine Learning models to predict market trends and identify high-probability setups.
-* **Low-Level Programming (C):** Custom memory management and data structure optimization for high-frequency data processing.
+Current Management Information Systems student bridging the gap between financial markets and software engineering. I am passionate about building algorithmic tools to understand market data better.
 
 ---
 
-### Current Development: WhaleTracker
+### 🛠 Skills & Focus
 
-**Type:** AI-Powered Financial Risk Management System
-**Status:** In Development
-
-WhaleTracker is a comprehensive analytical platform designed to process real-time market data for assets including **XAUUSD** and **NASDAQ**. It leverages Artificial Intelligence to eliminate human error and ensure precise execution.
-
-**System Architecture:**
-
-* **🤖 AI-Driven Analysis:** Utilizing predictive algorithms to interpret market structure (ICT/SMC) and institutional order flow with high accuracy.
-* **🛡️ Fully Controlled Risk Management:** A hard-coded, autonomous risk governance module that enforces strict drawdown limits and position sizing rules, preventing emotional interference.
-* **⚡ Real-Time Execution:** Direct API integration for latency-sensitive data processing and immediate signal generation.
+* **Languages:** C (Learning low-level memory mgmt), Python.
+* **Interests:** Financial Data Analysis, Algorithmic Trading Concepts (ICT/SMC), Backend Development.
+* **Goal:** To become a proficient Financial Engineer specializing in automated risk systems.
 
 ---
 
-### Professional Focus
+### 🚧 Current Project: WhaleTracker (In Development)
 
-My approach to software and finance is grounded in **Systematic & Autonomous Execution.**
+*Currently building a private tool for personal market analysis.*
 
-* **Objective:** Developing robust, AI-enhanced financial tools that provide total control over risk exposure.
-* **Current Focus:** Integrating Neural Networks into C-based trading algorithms for optimized decision-making.
+**Concept:** A data analysis tool for XAUUSD & NASDAQ to assist in risk management.
+**Tech Stack:** Python, C, Real-time APIs.
+**Status:** 🏗️ Under Construction (Private Repo)
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/deniz-günarslan/) • [Email](denizgunarslan77@gmail.com)
+### 📈 What I'm Learning
+
+* Mastering Data Structures in C (Linked Lists, Hash Tables).
+* Deepening knowledge in Statistical Analysis for Finance.
+* Improving discipline in both bodybuilding and coding.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/Deniz-Günarslan/) • [Email](mailto:denizgunarslan77@gmail.com)
